@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1476821814 source:e:\projekty\c++\kolko_i_krzyzyk\main.cpp
+	<iostream>
+	<windows.h>
+	<cstdlib>
+	<conio.h>
+
